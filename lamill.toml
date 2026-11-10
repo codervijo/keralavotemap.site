@@ -11,6 +11,10 @@ custom_domains = [
     "keralavotemap.site",
 ]
 
+[index]
+indexnow_key = "f9777f6816b04675d7cc49e032975f13"
+indexnow_enabled = true
+
 [stack]
 framework = "vite-react"
 
